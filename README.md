@@ -1,3 +1,10 @@
+## Day 2 Learnings
+
+- Learned how to link a local Git repo to GitHub using `git remote add origin`.
+- Understood the meaning of untracked files and how to stage them.
+- Practiced committing and pushing changes to a remote repository.
+
+
 # codingGita-journal
 ## What I Learned Today
 - How to initialize a Git repository using `git init`.
